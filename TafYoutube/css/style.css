@@ -1,0 +1,141 @@
+#micro{
+    margin-top: 15px;
+   
+}
+#camera{
+    margin-left: 270px;
+}
+#menuap{
+    margin-left: 20px;
+}
+#clo{
+    margin-left: 20px;
+}
+#photoprofil{
+    margin-left: 20px;
+    border-radius: 100%;
+}
+#fix{
+    position:fixed;
+    background-color: white;
+    float:left;
+}
+#fix1{
+    position:fixed;
+    margin-top: 50px;
+    
+}
+#photoprofil1{
+    border-radius: 100%;
+}
+#logo{
+margin-left: 25px;
+margin-top: 10px;
+height: 30px;
+width:90px;
+}
+#reche{
+    margin-top: 10px;
+}
+#menu1{
+    width: 25px;
+    height: 20px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+a{
+    color:#030303;
+    text-decoration: none;
+}
+nav{
+    /* background-color: white; */
+}
+#but1{
+    border: 1px solid #8f9194;
+    box-shadow: none;
+    border-radius: 24px;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    }
+    #but2{
+        border: 1px solid #8f9194;
+        box-shadow: none;
+        border-radius: 24px;
+        border-top-left-radius: 24px;
+        border-top-right-radius: 24px;
+        border-bottom-right-radius: 24px;
+        border-bottom-left-radius: 24px;
+        background-color: grey;
+        }
+    button:focus{
+        border: none;
+        box-shadow: none;
+    }
+    
+    #navbar{
+        margin-top: 40px;
+        margin-left: 30px;
+        float: left;
+        background-color:#ffffff;
+    }
+    #boutonnav1{
+        width: 240px;
+        text-align:justify;
+        font-family:'Roboto,Noto,sans-serif';
+        font-size: 14px;
+        color:#030303;
+        font-style: normal;
+        line-height: 20px;
+        font-weight: 500;
+        border:none;
+        background-color:rgb(226, 225, 225);
+
+    }
+    hr{
+        border-top-width: 3px;
+    }
+    h5{
+        color:#606060;
+    }
+    #boutonnav{
+        width: 240px;
+        text-align:justify;
+        font-family:'Roboto,Noto,sans-serif';
+        font-size: 14px;
+        color:#030303;
+        font-style: normal;
+        line-height: 20px;
+        font-weight: 500;
+        border:none;
+        
+
+    }
+    #bac{
+        background-color: white;
+    }
+    #boutonnav:focus{
+        border: none;
+        box-shadow: none;
+    }
+    #video{
+        margin-top: 170px;
+        margin-left: 1px;
+        position: relative; 
+        
+    }
+    /* #video1{
+        
+        margin-left: 0px;
+    } */
+    #vi1{
+        /* margin-top: 0px; */
+        position:relative;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+    margin-right: 75px;
+    margin-left: -5px;
+     }
+     
